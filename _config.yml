@@ -1,10 +1,10 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
+title: 宝
+subtitle: 庆 技 学院 
 description: 
-creator: <a href="http://baixin.io">@leopardpan</a>
+creator: <a href="http://hebaochina.top">@hebao123</a>
 
-url: "http://baixin.io"
+url: "http://hebaochina.top"
 
 permalink: /:year/:month/:title/
 
@@ -20,9 +20,9 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: Team博客, description: Team博客, url: 'http://talkingdatasdk.coding.me'}     
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: Team博客, description: Team博客}     
+    - {title: 标签, description: tags}      
+    - {title: 所有文章, description: archive}   
     
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
@@ -32,14 +32,14 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: leopard 
+    duoshuo: hebao123 
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 何宝美好回忆 
+    github: hebao123
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 879815165@qq.com
 
 # 百度统计
 baidu:
