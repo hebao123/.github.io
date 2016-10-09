@@ -1,7 +1,7 @@
 # Basic
 title: HeBao
 subtitle: CQUST
-description: 
+description: 动态网站开发中
 creator: <a href="http://hebaochina.top">@hebao123</a>
 
 url: "http://hebaochina.top"
@@ -16,13 +16,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 海
+    title: 美
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 油, description: Team博客}     
-    - {title: 1, description: tags}      
-    - {title: 5, description: archive}   
+    - {title: 好, description: Team博客}     
+    - {title: 回, description: tags}      
+    - {title: 忆, description: archive}   
     
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
