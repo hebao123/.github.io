@@ -16,13 +16,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客
+    title: 海
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: Team博客, description: Team博客}     
-    - {title: 标签, description: tags}      
-    - {title: 所有文章, description: archive}   
+    - {title: 油, description: Team博客}     
+    - {title: 1, description: tags}      
+    - {title: 5, description: archive}   
     
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
