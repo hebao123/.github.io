@@ -20,8 +20,8 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 好, description: 检索 }     
-    - {title: 回, description: 检索}      
+    - {title: 好, description: tags}     
+    - {title: 回, description: /tags}      
     - {title: 忆, description: archive}   
     
 # Pagination
