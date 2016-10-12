@@ -11,9 +11,7 @@ layout: default
       <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 250 }}&hellip;</p>
       <div class="post-list__meta">
         <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__meta--date date">{{ post.date | date: "%F"}}</time> 
-        <div class = "tag-img-icon">
-          <img src="/assets/images/tag-alt-icon.png" /> 
-        </div>
+        
         <a href="/tags">
           <div class = "post-list-icon-mate">
             <span class="post-list__meta--tags" style="background-image: url('/assets/images/tag-bg-left.png') "></span>
