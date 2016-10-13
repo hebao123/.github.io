@@ -28,12 +28,12 @@
   <meta name="baidu-site-verification" content="t27hGM7UC9" />
   {% if site.baidu.id %}
   <script>
-  var _hmt = _hmt || [];
+    var _hmt = _hmt || [];
     (function() {
-   var hm = document.createElement("script");
-    hm.src = "//hm.baidu.com/hm.js?76bd26bd1505edd9d6013fda8889ad58";
-   var s = document.getElementsByTagName("script")[0]; 
-   s.parentNode.insertBefore(hm, s);
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?{{site.baidu.id}}";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
   })();
  </script>
   {% endif %}
