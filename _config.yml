@@ -43,9 +43,9 @@ social:
 
 # 百度统计
 baidu:
-    id:
+    id: 76bd26bd1505edd9d6013fda8889ad58
 
 # Google Analytics
 ga:
-    id:    
+    id:   
     host: auto  
